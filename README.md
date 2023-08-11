@@ -18,9 +18,9 @@
 ### Data source:
 
     Provided data:
-    weather.csv: Data was partially extracted from the Bureau of Metreorology website daily between Nov.2022 and Apr.2023 for the city of Melbourne
+    weather.csv: Data was partially extracted from the Bureau of Meteorology website daily between Nov.2022 and Apr.2023 for the city of Melbourne
     price_and_demand.csv: contains energy price and demand figures for the state of Victoria at a half an hour interval between Nov.2022 and Apr.2023. Data was extracted from the Australian Energy Market Operator
-
+    
 </br>
 
 ### Tools and Library Used:
